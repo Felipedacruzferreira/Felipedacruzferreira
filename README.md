@@ -1,7 +1,8 @@
 Olá Pessoal
 - 🔭 Atualmente estou procurando um Estágio na  área de DEV
-- 🌱 Atualmente Estou Sistemas Para a internet
-- 👯 Estou  Cursando Implantação de serviços AWS no SENAI
+- 🌱 Atualmente Estou cursando Sistemas Para a internet
+- 👯 Estou  Cursando Implantação de serviços Azure no SENAI
+- 🌱 Possuo as Badges de Implantação GCP E AWS
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
