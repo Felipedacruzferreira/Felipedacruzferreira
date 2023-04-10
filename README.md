@@ -1,5 +1,5 @@
 Olá Pessoal
-- 🔭 Atualmente estou procurando um Estágio na  área de DEV
+- 🔭 Atualmente sou Desenvolvedor Web jr na Pogo Enterprise
 - 🌱 Atualmente Estou cursando Sistemas Para a internet
 - 👯 Estou  Cursando Implantação de serviços Azure no SENAI
 - 🌱 Possuo as Badges de Implantação GCP E AWS
